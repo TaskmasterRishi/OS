@@ -1,0 +1,4 @@
+./.git/refs/tags
+./.git/branches
+./.git/objects/info
+./hello
